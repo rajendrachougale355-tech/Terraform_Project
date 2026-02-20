@@ -1,0 +1,80 @@
+    6  cd id_ed25519.pub
+    7  pwd
+    8  ls
+    9  cd
+   10  cd /workspaces/TF (main)
+   11  cd /workspaces/TF 
+   12  ls
+   13  ssh-keygen
+   14  terraform destroy
+   15  terraform init
+   16  ls
+   17  cd day5
+   18  ls
+   19  terraform destroy
+   20  terraform init
+   21  terraform plan
+   22  terraform apply
+   23  terraform init
+   24  terraform apply
+   25  ls
+  terraform init
+   32  terraform apply
+   33  pwd
+   34  terraform init
+   35  terraform apply
+   36  terraform init
+   37  terraform apply
+   38  terraform destroy
+   39  terraform init
+   40  terraform apply
+   44  git init
+   45  git -version
+   46  git -v
+   47  ls -a
+   48  cd git
+   49  cd .git
+   50  l
+   51  git status
+   52  cd
+   53  git status
+   54  ls
+   55  cd /workspaces
+   56  git status
+   57  git commit -m "this is 1st commit"
+   58  git add TF/ 
+   59  git add  Terraform_aws_project
+   60  git status
+   61  git commit -m "this is 1st commit"
+   62  git status
+   63  git commit -m "this is 2nd commit"
+   64  git status
+   65  git add  TF
+   66  git status
+   67  git commit -m "this is  commit"
+   68  git rm --cached Terraform_aws_project
+   69  git status
+   70  git add .
+   71  git status
+   72  git rm --cached .
+   73  git rm -r --cached .
+   74  git status
+   75  git remote add origin https://github.com/rajendrachougale355-tech/Terraform_Project.git
+   76  git remote -v
+   77  git status
+   78  git rm -r --cached .
+   79  git restore --staged .
+   80  git status
+   81  git push origin main
+   82  git remote set-url origin https://github.com/rajendrachougale355-tech/Terraform_Project.git
+   83  ls
+   84  git remote -v
+   85  git push origin main
+   86  ls -a
+   87  git clone https://github.com/rajendrachougale355-tech/Terraform_Project.git
+   88  ls
+ :wq!
+
+
+:wq
+  89  history
